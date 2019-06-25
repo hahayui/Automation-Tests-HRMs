@@ -1,0 +1,14 @@
+C:\Users\Elian\source\repos\AutomationTests\obj\Debug\netcoreapp2.1\HRMsQA.csprojAssemblyReference.cache
+C:\Users\Elian\source\repos\AutomationTests\obj\Debug\netcoreapp2.1\HRMsQA.csproj.CoreCompileInputs.cache
+C:\Users\Elian\source\repos\AutomationTests\obj\Debug\netcoreapp2.1\HRMsQA.AssemblyInfoInputs.cache
+C:\Users\Elian\source\repos\AutomationTests\obj\Debug\netcoreapp2.1\HRMsQA.AssemblyInfo.cs
+C:\Users\Elian\source\repos\AutomationTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Elian\source\repos\AutomationTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Elian\source\repos\AutomationTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Elian\source\repos\AutomationTests\bin\Debug\netcoreapp2.1\HRMsQA.deps.json
+C:\Users\Elian\source\repos\AutomationTests\bin\Debug\netcoreapp2.1\HRMsQA.runtimeconfig.json
+C:\Users\Elian\source\repos\AutomationTests\bin\Debug\netcoreapp2.1\HRMsQA.runtimeconfig.dev.json
+C:\Users\Elian\source\repos\AutomationTests\bin\Debug\netcoreapp2.1\HRMsQA.dll
+C:\Users\Elian\source\repos\AutomationTests\bin\Debug\netcoreapp2.1\HRMsQA.pdb
+C:\Users\Elian\source\repos\AutomationTests\obj\Debug\netcoreapp2.1\HRMsQA.dll
+C:\Users\Elian\source\repos\AutomationTests\obj\Debug\netcoreapp2.1\HRMsQA.pdb

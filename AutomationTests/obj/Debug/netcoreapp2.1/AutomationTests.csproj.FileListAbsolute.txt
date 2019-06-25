@@ -1,0 +1,11 @@
+C:\Users\Elian\source\repos\AutomationTests\bin\Debug\netcoreapp2.1\AutomationTests.deps.json
+C:\Users\Elian\source\repos\AutomationTests\bin\Debug\netcoreapp2.1\AutomationTests.dll
+C:\Users\Elian\source\repos\AutomationTests\obj\Debug\netcoreapp2.1\AutomationTests.csprojAssemblyReference.cache
+C:\Users\Elian\source\repos\AutomationTests\obj\Debug\netcoreapp2.1\AutomationTests.csproj.CoreCompileInputs.cache
+C:\Users\Elian\source\repos\AutomationTests\obj\Debug\netcoreapp2.1\AutomationTests.AssemblyInfoInputs.cache
+C:\Users\Elian\source\repos\AutomationTests\obj\Debug\netcoreapp2.1\AutomationTests.AssemblyInfo.cs
+C:\Users\Elian\source\repos\AutomationTests\bin\Debug\netcoreapp2.1\AutomationTests.runtimeconfig.json
+C:\Users\Elian\source\repos\AutomationTests\bin\Debug\netcoreapp2.1\AutomationTests.runtimeconfig.dev.json
+C:\Users\Elian\source\repos\AutomationTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Elian\source\repos\AutomationTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Elian\source\repos\AutomationTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
